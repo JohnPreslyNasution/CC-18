@@ -162,10 +162,10 @@ const alumniData = [
   },
   {
     nickname: "John",
-    campus: "Asal Kampus",
-    ig: "Link Instagram",
-    linkedin: "Link LinkedIn",
-    photo: "URL Foto",
+    campus: "Universitas Teknologi Bandung",
+    ig: "https://www.instagram.com/johnpn_",
+    linkedin: "https://www.linkedin.com/in/john-presly-nasution-2310092b7/",
+    photo: "https://photos.app.goo.gl/tBRn4XftTHuKVwT87",
   },
   {
      nickname: "Evid",
